@@ -1,0 +1,47 @@
+header{
+    border-bottom:2px solid black;
+}
+
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    gap: 50px;
+    padding: 10px;
+}
+
+footer{
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+
+#paisesContainer{
+    border: 2px solid black;
+    width: 33.33%;
+    padding: 50px;
+}
+
+.inputContainer{
+    border: 2px solid black;
+    padding: 50px;
+    width: 33.33%;
+}
+
+.colores{
+    display:flex;
+    gap: 2px;
+}
+
+.verde{
+    color: green;
+}
+
+.gris{
+    color: gray;
+}
+
+.amarillo{
+    color: yellow;
+}
+
